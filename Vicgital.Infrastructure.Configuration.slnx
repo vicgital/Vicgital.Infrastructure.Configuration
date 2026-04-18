@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/deployment/" />
+  <Folder Name="/src/">
+    <Project Path="src/Vicgital.Infrastructure.Configuration/Vicgital.Infrastructure.Configuration.csproj" />
+  </Folder>
+</Solution>
