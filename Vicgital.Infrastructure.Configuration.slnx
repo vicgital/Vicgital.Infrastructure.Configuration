@@ -1,7 +1,9 @@
 <Solution>
   <Folder Name="/deployment/" />
   <Folder Name="/src/">
-    <Project Path="src/Vicgital.Infrastructure.Configuration.TestHarness/Vicgital.Infrastructure.Configuration.TestHarness.csproj" Id="24315262-1743-44cc-96d1-cca62a63dce8" />
     <Project Path="src/Vicgital.Infrastructure.Configuration/Vicgital.Infrastructure.Configuration.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Vicgital.Infrastructure.Configuration.TestHarness/Vicgital.Infrastructure.Configuration.TestHarness.csproj" />
   </Folder>
 </Solution>
