@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Vicgital.Infrastructure.Configuration.TestHarness": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "local",
+        "EnvKey1": "Value1"
+      }
+    }
+  }
+}
